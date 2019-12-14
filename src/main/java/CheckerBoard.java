@@ -54,4 +54,4 @@ public class CheckerBoard extends Application {
         launch();
     }
 
-} // end SimpleGraphicsStarter
+} // end CheckerBoard
